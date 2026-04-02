@@ -32,7 +32,7 @@ box-shadow: 0 0 40px rgba(0,255,170,0.15);
 
 <!-- 🌳 POHON NEON -->
 
-<img src="https://svgshare.com/i/14kA.svg" width="230"
+<img src="https://www.svgrepo.com/show/530293/tree-2.svg" width="230"
 style="filter: hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 20px #00ffaa);" />
 
 <br><br>
@@ -40,7 +40,7 @@ style="filter: hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 20px #00ffaa);"
 <!-- 🔥 FIRE -->
 
 <img src="https://streak-stats.demolab.com?user=alkadafii1&theme=highcontrast&hide_border=true&background=00000000&ring=00FFAA&fire=FF4500&currStreakLabel=00FFAA"
-width="90%" style="filter: drop-shadow(0 0 12px rgba(255,80,0,0.7));" />
+style="filter: drop-shadow(0 0 12px rgba(255,80,0,0.7));" />
 
 <br><br>
 
