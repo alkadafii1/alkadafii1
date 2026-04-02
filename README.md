@@ -22,7 +22,10 @@
 ## 🌲 Contribution Tree (Live Growth)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alkadafii1/alkadafii1/output/tree.svg" />
+  <div style="background: rgba(255,255,255,0.03); padding:20px; border-radius:20px; backdrop-filter: blur(10px);">
+  <img src="https://raw.githubusercontent.com/alkadafii1/alkadafii1/output/tree.svg" 
+     style="opacity:0.5; filter: hue-rotate(90deg) brightness(1.3) blur(1px);" />
+    </div>
 </p>
 
 ---
@@ -38,11 +41,11 @@
 ## 🌙 GitHub Stats (Glass Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alkadafii1&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkadafii1&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
