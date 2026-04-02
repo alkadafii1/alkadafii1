@@ -1,5 +1,3 @@
-<img src="https://64.media.tumblr.com/f3dc00f24386eda90aed1ac275fcf961/6384da457b80bc61-f8/s250x400/23a601d38abcfdd250a1e4d4cd190e85cabd71cd.gif" alt="Preview GIF">
-
 <div align="center">
 
 # 🌳 Alkadafi's Garden
@@ -32,7 +30,7 @@ box-shadow: 0 0 40px rgba(0,255,170,0.15);
 
 <!-- 🌳 POHON NEON -->
 
-<img src="https://www.svgrepo.com/show/530293/tree-2.svg" width="230"
+<img src="https://64.media.tumblr.com/f3dc00f24386eda90aed1ac275fcf961/6384da457b80bc61-f8/s250x400/23a601d38abcfdd250a1e4d4cd190e85cabd71cd.gif" alt="Preview GIF" width="230"
 style="filter: hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 20px #00ffaa);" />
 
 <br><br>
