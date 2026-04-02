@@ -21,12 +21,12 @@
 
 ## 🌲 Contribution Tree (Live Growth)
 
-<p align="center">
-  <div style="background: rgba(255,255,255,0.03); padding:20px; border-radius:20px; backdrop-filter: blur(10px);">
-  <img src="https://raw.githubusercontent.com/alkadafii1/alkadafii1/output/tree.svg" 
+<div align="center" style="background: rgba(255,255,255,0.03); padding:20px; border-radius:20px; backdrop-filter: blur(10px);">
+
+<img src="https://raw.githubusercontent.com/alkadafii1/alkadafii1/output/tree.svg" 
      style="opacity:0.5; filter: hue-rotate(90deg) brightness(1.3) blur(1px);" />
-    </div>
-</p>
+
+</div>
 
 ---
 
