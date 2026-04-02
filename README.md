@@ -50,6 +50,13 @@ style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
 </div>
 
 ---
+<!-- 🌊 WAVE -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkadafii1&bg_color=00000000&color=00ffaa&line=00ffaa&point=ffffff&hide_border=true"
+width="95%"
+style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
+
+<br><br>
 
 ## 🍀 Tech Stack
 
@@ -70,14 +77,6 @@ style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
 </p>
 
 ---
-
-<!-- 🌊 WAVE -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkadafii1&bg_color=00000000&color=00ffaa&line=00ffaa&point=ffffff&hide_border=true"
-width="95%"
-style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
-
-<br><br>
 
 ## Contribution
 <p align="center"> <div style="background: rgba(255,255,255,0.03); padding:20px; border-radius:20px; backdrop-filter: blur(10px);"> <img src="https://raw.githubusercontent.com/alkadafii1/alkadafii1/output/tree.svg" style="opacity:0.5; filter: hue-rotate(90deg) brightness(1.3) blur(1px);" /> </div> </p>
