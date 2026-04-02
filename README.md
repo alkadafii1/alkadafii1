@@ -33,7 +33,7 @@ box-shadow: 0 0 40px rgba(0,255,170,0.15);
 <!-- 🌳 POHON NEON -->
 
 <img src="https://svgshare.com/i/14kA.svg" width="230"
-style="filter: hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 20px #00ffaa);" />
+width="90%" style="filter: hue-rotate(90deg) brightness(1.5) drop-shadow(0 0 20px #00ffaa);" />
 
 <br><br>
 
