@@ -77,7 +77,6 @@ style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
 ## 🌱 Philosophy
 
 > “Small commits are seeds.
-> Fire is passion.
 > Time grows the tree.”
 
 ---
