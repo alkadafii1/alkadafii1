@@ -18,7 +18,7 @@
 
 ---
 
-## 🌲🔥 Growth System
+## 🌲 Growth
 
 <div align="center" style="
 background: linear-gradient(135deg, rgba(0,255,170,0.08), rgba(0,0,0,0.6));
