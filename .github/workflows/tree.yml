@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/tree.svg?palette=github-dark&color_snake=green&color_dots=#144d2a,#1f7a3d,#2ecc71,#7bed9f,#c7f9cc
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           target_branch: output
           build_dir: dist
