@@ -50,13 +50,6 @@ style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
 </div>
 
 ---
-<!-- 🌊 WAVE -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkadafii1&bg_color=00000000&color=00ffaa&line=00ffaa&point=ffffff&hide_border=true"
-width="95%"
-style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
-
-<br><br>
 
 ## 🍀 Tech Stack
 
