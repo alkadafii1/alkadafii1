@@ -11,7 +11,7 @@
 ## 🌿 About Me
 
 ```diff
-+ 🌱 Learning: Laravel, Flutter
++ 🌱 Learning: Laravel, React, Flutter
 + 🌳 Focus: Web Development
 + 🔥 Passion: Building & Growing
 ```
