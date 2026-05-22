@@ -54,7 +54,7 @@ style="filter: drop-shadow(0 0 10px rgba(0,255,170,0.4));" />
 ## 🍀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,php,mysql,js" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,php,mysql,js" />
 </p>
 
 ---
