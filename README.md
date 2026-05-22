@@ -12,7 +12,7 @@
 
 ```diff
 + 🌱 Learning: Laravel, React, Flutter
-+ 🌳 Focus: Web Development
++ ✨ Interest : Web Development
 + 🔥 Passion: Building & Growing
 ```
 
