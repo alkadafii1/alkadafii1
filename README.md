@@ -2,7 +2,7 @@
 
 # Welcome 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Growing+Code+Like+a+Tree...;Keep+Building+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Growing+Code+Like+a+Tree...;Keeps+Growing+Upwards%F0%9F%8C%B1" />
 
 </div>
 
